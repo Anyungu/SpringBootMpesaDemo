@@ -23,7 +23,7 @@ public class MpesaFacility {
 	String appSecret = "XXXX";
 
 	// function to get a short life access token
-	public String authenticate() throws Exception {
+	private String authenticate() throws Exception {
 		String app_key = appKey;
 		String app_secret = appSecret;
 		String appKeySecret = app_key + ":" + app_secret;
