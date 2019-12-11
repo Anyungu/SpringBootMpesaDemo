@@ -1,4 +1,4 @@
-# SpringBootMpesaDemo
+# Spring Boot Mpesa Demo
 
 ## A Demo of how to kick off your Mpesa enabled App in Java Spring Boot
 
